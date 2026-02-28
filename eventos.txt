@@ -1,0 +1,1 @@
+Gestão de Cursos e Eventos: Implemente um sistema de gestão que permita a administração de cursos e eventos de dança, incluindo inscrições, pagamentos e relatórios

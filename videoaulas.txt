@@ -1,0 +1,1 @@
+Plataforma de Ensino de Dança por Meio de Vídeo Aulas: Desenvolva uma plataforma online que ofereça vídeos aulas de dança, permitindo que alunos pratiquem em casa.
